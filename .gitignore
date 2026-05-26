@@ -1,0 +1,8 @@
+﻿*.exe
+*.o
+out.txt
+err.txt
+CODED.txt
+RESTORED.txt
+ORIGINAL.txt
+.vs/
